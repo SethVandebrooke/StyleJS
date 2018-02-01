@@ -42,7 +42,7 @@ SELECTOR : {
 Style variables are simple. When defined in the last parameter of the constructor, they can be used as a value for a style attribute by preceeding the name of the variable with a $ sign.
 For example:
 ```js
-new UI("uiname", { ... }, 
+new Style("MyStyle", 
 {
   ".mydiv" : {
     color : "$primary"
