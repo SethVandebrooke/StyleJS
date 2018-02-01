@@ -13,7 +13,7 @@ RESONS TO USE IT
 The Style Constructor provides a useful, simple, and extendable css management system.
 
 **Why?**
-With the Style Constructor you can easily make realtime style changes, automate styles, and use CSS variables without having to compile anything.
+With the Style Constructor you can easily make realtime style changes, automate styles, and use CSS variables without having to compile anything or worrying about browser support (for CSS variables).
 
 ## Style Methods
 
